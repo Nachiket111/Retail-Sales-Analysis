@@ -34,8 +34,7 @@ The following global KPIs were calculated to set the baseline for performance an
 ### KPI Visuals 
 
 This image displays the main performance indicators used to track the business's success.
-* **<img width="706" height="66" alt="image" src="https://github.com/user-attachments/assets/4478de2a-1cf6-43f5-b75f-ff92c677485d" />
- **
+* <img width="706" height="66" alt="image" src="https://github.com/user-attachments/assets/4478de2a-1cf6-43f5-b75f-ff92c677485d" />
 
 
 ***
@@ -46,8 +45,7 @@ The final dashboard provides a single, dynamic view for business stakeholders.
 
 ### Final Dashboard Image (Placeholder)
 
-* **<img width="1774" height="847" alt="image" src="https://github.com/user-attachments/assets/58b07891-8e8c-43a2-8f9c-06802d256dd1" />
-**
+* <img width="1774" height="847" alt="image" src="https://github.com/user-attachments/assets/58b07891-8e8c-43a2-8f9c-06802d256dd1" />
 
 ### Top-Level Insights:
 
