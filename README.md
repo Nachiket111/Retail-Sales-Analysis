@@ -50,8 +50,8 @@ The final dashboard provides a single, dynamic view for business stakeholders.
 ### Top-Level Insights:
 
 1.  **Top Products:** The analysis identified **Yoga Mat** (\$169K) and **Vacuum Cleaner** ($\$164K$) as the top revenue drivers.
-2.  **Top Categories:** **Groceries** ($\$1.1M$) and **Electronics** ($\$1.1M$) are the leading sales categories.
-3.  **Customer Demographics:** The **19-37 Age Group** contributes the most to revenue ($\$2.1M$), and the **West Region** leads in total sales.
+2.  **Top Categories:** **Groceries** (\$1.1M) and **Electronics** (\$1.1M) are the leading sales categories.
+3.  **Customer Demographics:** The **19-37 Age Group** contributes the most to revenue (\$2.1M), and the **West Region** leads in total sales.
 4.  **Temporal Trends:** Sales are generally higher on **Sundays** and during **Weekdays** overall compared to weekends.
 
 ##  Technologies & Tools
@@ -66,6 +66,7 @@ The final dashboard provides a single, dynamic view for business stakeholders.
 The project is built upon data extracted from an original Excel workbook, segmented into the following CSV files:
 
 | Description |
+** **
 | `OrderID`, `Date`, `Quantity`, and `UnitPrice`. |
 | `ProductID` to `ProductName` and `Category`. |
 | `CustomerName`, `Region`, `Gender`, and `Age`. |
