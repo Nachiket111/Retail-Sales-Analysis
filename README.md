@@ -8,7 +8,7 @@ This project is a comprehensive analysis of a retail sales dataset, focusing on 
 
 **A note on my journey:** As someone currently stepping into the world of Data Science, this project served as a practical exercise to solidify my skills in data wrangling, advanced Excel, and data visualization best practices.
 
-## ✨ Key Features
+##  Key Features
 
 * **Global KPI Calculation:** Deriving essential metrics like Total Revenue, Customer Count, and Average Revenue.
 * **Time-Series Analysis:** Analyzing sales trends by year, month, and day of the week.
@@ -56,7 +56,7 @@ The final dashboard provides a single, dynamic view for business stakeholders.
 3.  **Customer Demographics:** The **19-37 Age Group** contributes the most to revenue ($\$2.1M$), and the **West Region** leads in total sales.
 4.  **Temporal Trends:** Sales are generally higher on **Sundays** and during **Weekdays** overall compared to weekends.
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 * **Data Source:** Microsoft Excel (`.xlsx` and derived `.csv` files)
 * **Analysis/Modeling:**
