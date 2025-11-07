@@ -20,7 +20,7 @@ This project is a comprehensive analysis of a retail sales dataset, focusing on 
 
 The following global KPIs were calculated to set the baseline for performance analysis:
 
-| KPI | Value | Description |
+| KPI | Value in ($) | Description |
 | :--- | :--- | :--- |
 | **Total Revenue** | $\mathbf{5,230,417}$ | The total monetary value of all sales. |
 | **Total Quantity Sold** | $\mathbf{10,107}$ | The total number of units sold. |
