@@ -2,7 +2,6 @@
 
 ##  Project Overview
 
-**Welcome to my first significant Data Analysis project!** 
 
 This project is a comprehensive analysis of a retail sales dataset, focusing on key performance indicators (KPIs) to drive business insights. The goal was to cleanse, transform, and model the raw data to create an interactive dashboard for effective decision-making.
 
@@ -49,7 +48,7 @@ The final dashboard provides a single, dynamic view for business stakeholders.
 
 ### Top-Level Insights:
 
-1.  **Top Products:** The analysis identified **Yoga Mat** (\$169K) and **Vacuum Cleaner** ($\$164K$) as the top revenue drivers.
+1.  **Top Products:** The analysis identified **Yoga Mat** (\$169K) and **Vacuum Cleaner** (\$164K) as the top revenue drivers.
 2.  **Top Categories:** **Groceries** (\$1.1M) and **Electronics** (\$1.1M) are the leading sales categories.
 3.  **Customer Demographics:** The **19-37 Age Group** contributes the most to revenue (\$2.1M), and the **West Region** leads in total sales.
 4.  **Temporal Trends:** Sales are generally higher on **Sundays** and during **Weekdays** overall compared to weekends.
